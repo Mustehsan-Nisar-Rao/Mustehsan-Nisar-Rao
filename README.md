@@ -1,42 +1,64 @@
-# portfolio
-# 🌟 Mustehsan's Portfolio
+# Mustehsan Nisar Rao | Full Stack Developer Portfolio
 
-Welcome to my personal portfolio! This website showcases my projects, skills, and experiences. 🚀  
-
-## 🔹 Features
-- 🎨 Fully responsive design  
-- 🔄 Smooth scrolling navigation  
-- 📸 Interactive project showcase  
-- 📩 Contact form  
-
-## 💻 Tech Stack
-- HTML5, CSS3, Bootstrap  
-- JavaScript (Vanilla JS)  
-- Git & GitHub Pages for deployment  
-
-## 📜 Installation & Usage
-1. Clone this repository:  
-   ```sh
-   git clone https://github.com/Mustehsan-Nisar-Rao/portfolio.git
-
-Open index.html in your browser.
-
-🌍 Live Demo
-👉 View Portfolio
-
-📞 Contact
-Email: mustehsan@example.com
-
-LinkedIn: Your Profile
-
+Welcome to my personal portfolio website!  
+This is a responsive and modern portfolio built using **HTML, CSS, Bootstrap, and JavaScript**, showcasing my projects, skills, and contact details.  
+It highlights my expertise in **.NET (C#)** and modern web development.
 
 ---
 
-### **✅ Next Steps:**
-1. **Open `README.md` and paste the content above.**  
-2. **Save the file.**  
-3. **Run these commands to update it on GitHub:**
-   ```sh
-   git add README.md
-   git commit -m "Updated README with portfolio details"
-   git push origin main
+## 🌐 Live Preview
+
+
+👉 [Visit Portfolio](https://mustehsan-nisar-rao.github.io/)  
+*(Hosted on GitHub Pages)*
+
+---
+
+## 📁 Sections
+
+- **About Me** – A brief intro to who I am as a developer
+- **Skills** – Technologies I work with on both frontend & backend
+- **Projects** – Interactive cards highlighting my best work
+- **Contact** – Ways to connect with me (Email & LinkedIn)
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend**  
+- HTML5  
+- CSS3  
+- Bootstrap 5  
+- JavaScript (Vanilla)
+
+**Backend**  
+- C#  
+- .NET Core  
+- SQL Server  
+
+**Tools & Platforms**  
+- Git & GitHub  
+- Visual Studio  
+- GitHub Pages  
+
+---
+
+## 📷 Screenshots
+
+# Landing Page 
+
+![screenshot1](https://github.com/user-attachments/assets/ca26d7f6-7d89-42b5-89fe-adef5e4c1b1c) 
+
+# Projects Section 
+![Screenshot2](https://github.com/user-attachments/assets/0bc56684-3ffc-4e0d-9916-8530d98ac1e0)
+
+# Contact Section 
+![Screenshot3](https://github.com/user-attachments/assets/93719971-b817-4bb9-902a-8c64d2481504)
+
+---
+
+## 🚀 How to Run Locally
+
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/mustehsan-nisar-rao/mustehsan-nisar-rao.github.io.git
