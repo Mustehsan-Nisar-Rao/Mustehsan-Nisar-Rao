@@ -9,7 +9,7 @@ It highlights my expertise in **.NET (C#)** and modern web development.
 ## 🌐 Live Preview
 
 
-👉 [Visit Portfolio](https://mustehsan-nisar-rao.github.io/)  
+👉 [Visit Portfolio](https://mustehsan-nisar-rao.github.io/Mustehsan-Nisar-Rao/)  
 *(Hosted on GitHub Pages)*
 
 ---
